@@ -1,6 +1,6 @@
 {
-  "name": "thmlth-address-database",
-  "version": "0.2.0",
+  "name": "thmlth-address",
+  "version": "0.3.4",
   "description": "ฐานข้อมูลที่อยู่ในประเทศไทยสำหรับ TMLTH",
   "main": "lib/index.js",
   "engines": {
@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sellsuki/thai-address-database.git"
+    "url": "git+https://github.com/nikhomrvp/thmlth-thai-address.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sellsuki/thai-address-database/issues"
+    "url": "https://github.com/nikhomrvp/thmlth-thai-address/issues"
   },
-  "homepage": "https://github.com/Sellsuki/thai-address-database#readme",
+  "homepage": "https://github.com/nikhomrvp/thmlth-thai-address#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.25.0",
